@@ -1,0 +1,11 @@
+body {
+    background-color: #f4f8fb;
+}
+
+.card-stat .display-6 {
+    font-weight: 700;
+}
+
+.table thead th {
+    white-space: nowrap;
+}
